@@ -1,0 +1,8 @@
+Title: Mr
+Full Name: Kamran Ahmed
+USN: 1GC24CS043
+Semester: Third
+Section: A
+Branch: Computer Science and Engineering
+Year of Admission: 2024
+College Name: GCE
