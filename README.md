@@ -1,7 +1,7 @@
 Title: Mr
 Full Name: Kamran Ahmed
 USN: 1GC24CS043
-Semester: third
+Semester: Third
 Section: A
 Subject Name: Project Management with GIT
 Subject Code: BCS358C
