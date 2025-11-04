@@ -1,0 +1,11 @@
+Title: Mr
+Full Name: Kamran Ahmed
+USN: 1GC24CS043
+Semester: third
+Section: A
+Subject Name: Project Management with GIT
+Subject Code: BCS358C
+Academic Year: 2024-25
+Mobile No: 9632174250
+Email ID: kamran@gmail.com
+
