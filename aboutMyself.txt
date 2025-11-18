@@ -6,3 +6,5 @@ Section: A
 Branch: Computer Science and Engineering
 Year of Admission: 2024
 College Name: GCE
+Sslc:Tagore English School
+Puc:Shanthiniketan PU College
